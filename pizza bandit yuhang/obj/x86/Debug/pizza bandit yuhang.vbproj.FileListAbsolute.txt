@@ -1,0 +1,76 @@
+C:\Users\RP4K\Desktop\pizza bandit yuhang\pizza bandit yuhang\bin\Debug\pizza bandit yuhang.exe
+C:\Users\RP4K\Desktop\pizza bandit yuhang\pizza bandit yuhang\bin\Debug\pizza bandit yuhang.pdb
+C:\Users\RP4K\Desktop\pizza bandit yuhang\pizza bandit yuhang\bin\Debug\pizza bandit yuhang.xml
+C:\Users\RP4K\Desktop\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza_bandit_yuhang.MainForm.resources
+C:\Users\RP4K\Desktop\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza_bandit_yuhang.Resources.resources
+C:\Users\RP4K\Desktop\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza bandit yuhang.vbproj.GenerateResource.Cache
+C:\Users\RP4K\Desktop\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza bandit yuhang.exe
+C:\Users\RP4K\Desktop\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza bandit yuhang.xml
+C:\Users\RP4K\Desktop\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza bandit yuhang.pdb
+C:\Users\RP4K\Desktop\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza_bandit_yuhang.CaptureReggie.resources
+C:\Users\RP4K\Desktop\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza_bandit_yuhang.welcome.resources
+C:\Users\RP4K\Desktop\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza_bandit_yuhang.winForm.resources
+C:\Users\RP4K\Desktop\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza_bandit_yuhang.instruction.resources
+C:\Users\RP4K\Desktop\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza_bandit_yuhang.GAMEOVER.resources
+C:\Users\RP4K\Desktop\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza_bandit_yuhang.pauseForm.resources
+C:\Users\RP4K\Desktop\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza_bandit_yuhang.scoreEnter.resources
+C:\Users\RP4K\Desktop\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza_bandit_yuhang.scoreForm.resources
+C:\Users\RP4K\Desktop\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\RP4K\Desktop\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza bandit yuhang.vbproj.ResolveComReference.cache
+F:\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\Interop.WMPLib.dll
+F:\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza bandit yuhang.vbproj.ResolveComReference.cache
+F:\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza bandit yuhang.exe
+F:\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza bandit yuhang.xml
+F:\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza bandit yuhang.pdb
+F:\pizza bandit yuhang\pizza bandit yuhang\bin\Debug\pizza bandit yuhang.exe
+F:\pizza bandit yuhang\pizza bandit yuhang\bin\Debug\pizza bandit yuhang.pdb
+F:\pizza bandit yuhang\pizza bandit yuhang\bin\Debug\pizza bandit yuhang.xml
+F:\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza_bandit_yuhang.CaptureReggie.resources
+F:\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza_bandit_yuhang.GAMEOVER.resources
+F:\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza_bandit_yuhang.instruction.resources
+F:\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza_bandit_yuhang.pauseForm.resources
+F:\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza_bandit_yuhang.scoreEnter.resources
+F:\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza_bandit_yuhang.scoreForm.resources
+F:\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza_bandit_yuhang.welcome.resources
+F:\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza_bandit_yuhang.MainForm.resources
+F:\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza_bandit_yuhang.Resources.resources
+F:\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza_bandit_yuhang.winForm.resources
+F:\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza bandit yuhang.vbproj.GenerateResource.Cache
+M:\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\Interop.WMPLib.dll
+M:\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza bandit yuhang.vbproj.ResolveComReference.cache
+M:\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza bandit yuhang.xml
+M:\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza bandit yuhang.pdb
+M:\pizza bandit yuhang\pizza bandit yuhang\bin\Debug\pizza bandit yuhang.exe
+M:\pizza bandit yuhang\pizza bandit yuhang\bin\Debug\pizza bandit yuhang.pdb
+M:\pizza bandit yuhang\pizza bandit yuhang\bin\Debug\pizza bandit yuhang.xml
+M:\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza_bandit_yuhang.CaptureReggie.resources
+M:\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza_bandit_yuhang.GAMEOVER.resources
+M:\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza_bandit_yuhang.instruction.resources
+M:\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza_bandit_yuhang.pauseForm.resources
+M:\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza_bandit_yuhang.scoreEnter.resources
+M:\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza_bandit_yuhang.scoreForm.resources
+M:\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza_bandit_yuhang.welcome.resources
+M:\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza_bandit_yuhang.MainForm.resources
+M:\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza_bandit_yuhang.Resources.resources
+M:\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza_bandit_yuhang.winForm.resources
+M:\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza bandit yuhang.vbproj.GenerateResource.Cache
+M:\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza bandit yuhang.exe
+D:\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza bandit yuhang.exe
+D:\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza bandit yuhang.xml
+D:\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza bandit yuhang.pdb
+D:\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\Interop.WMPLib.dll
+D:\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza bandit yuhang.vbproj.ResolveComReference.cache
+D:\pizza bandit yuhang\pizza bandit yuhang\bin\Debug\pizza bandit yuhang.exe
+D:\pizza bandit yuhang\pizza bandit yuhang\bin\Debug\pizza bandit yuhang.pdb
+D:\pizza bandit yuhang\pizza bandit yuhang\bin\Debug\pizza bandit yuhang.xml
+D:\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza_bandit_yuhang.CaptureReggie.resources
+D:\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza_bandit_yuhang.GAMEOVER.resources
+D:\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza_bandit_yuhang.instruction.resources
+D:\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza_bandit_yuhang.pauseForm.resources
+D:\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza_bandit_yuhang.scoreEnter.resources
+D:\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza_bandit_yuhang.scoreForm.resources
+D:\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza_bandit_yuhang.welcome.resources
+D:\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza_bandit_yuhang.MainForm.resources
+D:\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza_bandit_yuhang.Resources.resources
+D:\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza_bandit_yuhang.winForm.resources
+D:\pizza bandit yuhang\pizza bandit yuhang\obj\x86\Debug\pizza bandit yuhang.vbproj.GenerateResource.Cache
